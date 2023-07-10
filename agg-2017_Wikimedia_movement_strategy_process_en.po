@@ -1,0 +1,226 @@
+# Translation of 2017 Wikimedia Movement Strategy Portal to English (English)
+# Exported from Meta
+#
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2023-07-10 10:28:55+0000\n"
+"POT-Creation-Date: 2023-07-10 10:28:55+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: MediaWiki 1.41.0-wmf.16 (7a7eb2d); Translate 2023-04-26\n"
+"X-Language-Code: en\n"
+"X-Message-Group: agg-2017_Wikimedia_movement_strategy_process\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/Page_display_title"
+msgid "Strategy/Wikimedia movement/2017"
+msgstr "Strategy/Wikimedia movement/2017"
+
+#. [Wiki] <code><nowiki>$line2</nowiki></code> and <code><nowiki>$line3</nowiki></code> are just new line breaks.
+msgctxt "Strategy/Wikimedia_movement/2017/2"
+msgid "What do we want $line2 to build or achieve together $line3 over the next 15 years?"
+msgstr "What do we want $line2 to build or achieve together $line3 over the next 15 years?"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/5"
+msgid "For 16 years, Wikimedians have worked together to build the largest free knowledge resource in human history. During this time, we've grown from a small group of editors to a diverse community of editors, developers, affiliates, readers, donors, and partners."
+msgstr "For 16 years, Wikimedians have worked together to build the largest free knowledge resource in human history. During this time, we've grown from a small group of editors to a diverse community of editors, developers, affiliates, readers, donors, and partners."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/38"
+msgid "Today, we are more than a group of websites. We have become a movement rooted in values and a powerful vision:"
+msgstr "Today, we are more than a group of websites. We have become a movement rooted in values and a powerful vision:"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/39"
+msgid "A world in which every single human being can freely share in the sum of all knowledge."
+msgstr "A world in which every single human being can freely share in the sum of all knowledge."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/6"
+msgid "All of us now have an opportunity to decide where we go from here. We can decide how we make our vision a reality. What will we have achieved 15 years from now? What role do we want to play in the world in 2030? Who will have joined our movement? What work lies ahead of us? These are questions we can answer together."
+msgstr "All of us now have an opportunity to decide where we go from here. We can decide how we make our vision a reality. What will we have achieved 15 years from now? What role do we want to play in the world in 2030? Who will have joined our movement? What work lies ahead of us? These are questions we can answer together."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/81"
+msgid "Our strategic direction: Service and Equity"
+msgstr "Our strategic direction: Service and Equity"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/82"
+msgid "By 2030, Wikimedia will become the essential infrastructure of the ecosystem of free knowledge, and anyone who shares our vision will be able to join us."
+msgstr "By 2030, Wikimedia will become the essential infrastructure of the ecosystem of free knowledge, and anyone who shares our vision will be able to join us."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/83"
+msgid "We, the Wikimedia contributors, communities, and organizations, will advance our world by collecting knowledge that fully represents human diversity, and by building the services and structures that enable others to do the same."
+msgstr "We, the Wikimedia contributors, communities, and organizations, will advance our world by collecting knowledge that fully represents human diversity, and by building the services and structures that enable others to do the same."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/84"
+msgid "We will carry on our mission of developing content as we have done in the past, and we will go further."
+msgstr "We will carry on our mission of developing content as we have done in the past, and we will go further."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/85"
+msgid "'''Knowledge as a service''': To serve our users, we will become a platform that serves open knowledge to the world across interfaces and communities. We will build tools for allies and partners to organize and exchange free knowledge beyond Wikimedia. Our infrastructure will enable us and others to collect and use different forms of free, trusted knowledge."
+msgstr "'''Knowledge as a service''': To serve our users, we will become a platform that serves open knowledge to the world across interfaces and communities. We will build tools for allies and partners to organize and exchange free knowledge beyond Wikimedia. Our infrastructure will enable us and others to collect and use different forms of free, trusted knowledge."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/86"
+msgid "'''Knowledge equity''': As a social movement, we will focus our efforts on the knowledge and communities that have been left out by structures of power and privilege. We will welcome people from every background to build strong and diverse communities. We will break down the social, political, and technical barriers preventing people from accessing and contributing to free knowledge."
+msgstr "'''Knowledge equity''': As a social movement, we will focus our efforts on the knowledge and communities that have been left out by structures of power and privilege. We will welcome people from every background to build strong and diverse communities. We will break down the social, political, and technical barriers preventing people from accessing and contributing to free knowledge."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/79"
+msgid "Catch up on the process"
+msgstr "Catch up on the process"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/43"
+msgid "There were three cycles of discussions. The first cycle ended on April 18, 2017. The second ended on June, 12. The third cycle ended on July, 31."
+msgstr "There were three cycles of discussions. The first cycle ended on April 18, 2017. The second ended on June, 12. The third cycle ended on July, 31."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/80"
+msgid "You can now read the text of the [[$direction|strategic direction]] that emerged through this process. If you agree that this is the right way for the Wikimedia Movement to move forward, you are invited to endorse it."
+msgstr "You can now read the text of the [[$direction|strategic direction]] that emerged through this process. If you agree that this is the right way for the Wikimedia Movement to move forward, you are invited to endorse it."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/78"
+msgid "Express your support and endorse the strategic direction"
+msgstr "Express your support and endorse the strategic direction"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/45"
+msgid "Learn more"
+msgstr "Learn more"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/50"
+msgid "Current updates"
+msgstr "Current updates"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/51"
+msgid "Katherine Maher sends weekly summaries of what is happening around the movement strategy process. You can also [[$signup|sign up]] to receive news on your talk page."
+msgstr "Katherine Maher sends weekly summaries of what is happening around the movement strategy process. You can also [[$signup|sign up]] to receive news on your talk page."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/70"
+msgid "About the audiences in the conversation (tracks)"
+msgstr "About the audiences in the conversation (tracks)"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/27"
+msgid "There are many different groups in our movement, who engage with information in different ways. In order to understand their needs and perspectives better, the core team has organized \"tracks\" by audience. The main participation tracks are Organized Groups and Individual Contributors. The third audience is for those not in our movement conversation, namely readers, experts, and partners. We are currently doing both research and interviews to better understand their inputs. Learn more here (link coming soon)."
+msgstr "There are many different groups in our movement, who engage with information in different ways. In order to understand their needs and perspectives better, the core team has organized \"tracks\" by audience. The main participation tracks are Organized Groups and Individual Contributors. The third audience is for those not in our movement conversation, namely readers, experts, and partners. We are currently doing both research and interviews to better understand their inputs. Learn more here (link coming soon)."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/56"
+msgid "A"
+msgstr "A"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/62"
+msgid "Organized groups"
+msgstr "Organized groups"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/71"
+msgid "Track A"
+msgstr "Track A"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/29"
+msgid "This group includes [[$aff|Wikimedia movement affiliates]], organized movement committees including the Funds Dissemination Committee and Affiliations Committee, staff members at the Wikimedia Foundation, the Foundation Board of Trustees, and other organized or semi-organized groups that help support the movement."
+msgstr "This group includes [[$aff|Wikimedia movement affiliates]], organized movement committees including the Funds Dissemination Committee and Affiliations Committee, staff members at the Wikimedia Foundation, the Foundation Board of Trustees, and other organized or semi-organized groups that help support the movement."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/57"
+msgid "B"
+msgstr "B"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/63"
+msgid "Individual contributors"
+msgstr "Individual contributors"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/72"
+msgid "Track B"
+msgstr "Track B"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/31"
+msgid "This group includes individual contributors, such as editors, curators, and volunteer developers, across different languages and Wikimedia projects."
+msgstr "This group includes individual contributors, such as editors, curators, and volunteer developers, across different languages and Wikimedia projects."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/64"
+msgid "New Voices: Readers, experts, and partners"
+msgstr "New Voices: Readers, experts, and partners"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/73"
+msgid "Formerly tracks C and D"
+msgstr "Formerly tracks C and D"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/33"
+msgid "We are doing research to better understand the voices that aren’t part of our movement discussions: readers, experts, and partners. To ensure a complete picture, we are engaging in research as well as conducting interviews and hosting small gatherings with these people. This group includes existing and new readers of our projects, and existing and potential partners, in countries or languages where we are both well-known (formerly track C) and where we are much less known (formerly track D)."
+msgstr "We are doing research to better understand the voices that aren’t part of our movement discussions: readers, experts, and partners. To ensure a complete picture, we are engaging in research as well as conducting interviews and hosting small gatherings with these people. This group includes existing and new readers of our projects, and existing and potential partners, in countries or languages where we are both well-known (formerly track C) and where we are much less known (formerly track D)."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/46"
+msgid "The process"
+msgstr "The process"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/47"
+msgid "The core strategy team has prepared a process in collaboration with a Steering Committee of long-time volunteer Wikimedians."
+msgstr "The core strategy team has prepared a process in collaboration with a Steering Committee of long-time volunteer Wikimedians."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/48"
+msgid "The team"
+msgstr "The team"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/49"
+msgid "Many groups of people from across the movement are working together to organize the strategy process (and you can be one of them!)"
+msgstr "Many groups of people from across the movement are working together to organize the strategy process (and you can be one of them!)"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/52"
+msgid "Frequently asked questions"
+msgstr "Frequently asked questions"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/53"
+msgid "Answers to more questions are available in the ''Frequently asked questions''."
+msgstr "Answers to more questions are available in the ''Frequently asked questions''."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/54"
+msgid "Suggest improvements"
+msgstr "Suggest improvements"
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/55"
+msgid "You are invited to discuss the process and ask more questions on the talk page."
+msgstr "You are invited to discuss the process and ask more questions on the talk page."
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/22"
+msgid "== See also =="
+msgstr "== See also =="
+
+#
+msgctxt "Strategy/Wikimedia_movement/2017/23"
+msgid "* {{en}} [[$2010strategy|2010–2015 Wikimedia movement strategy]]\n* {{en}} [[$wmorgs|Strategy of Wikimedia organizations]]\n* {{en}} [[$strategy-roadmap|Wikimedia technology strategy and roadmaps]]"
+msgstr "* {{en}} [[$2010strategy|2010–2015 Wikimedia movement strategy]]\n* {{en}} [[$wmorgs|Strategy of Wikimedia organizations]]\n* {{en}} [[$strategy-roadmap|Wikimedia technology strategy and roadmaps]]"
+
