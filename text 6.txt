@@ -1,0 +1,1 @@
+<html><head></head><body style="overflow-wrap: break-word; -webkit-nbsp-mode: space; line-break: after-white-space;"><div><br></div><div>logo: "/assets/logo.png"</div><div>logoDark: "/assets/logo-dark.png"</div><div><br></div></body></html>

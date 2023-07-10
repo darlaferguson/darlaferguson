@@ -1,0 +1,1 @@
+<html><head></head><body style="overflow-wrap: break-word; -webkit-nbsp-mode: space; line-break: after-white-space;"><div>{</div><div>&nbsp; "variables": {</div><div>&nbsp; &nbsp; "versions": {</div><div>&nbsp; &nbsp; &nbsp; "latest": "1.0.0",</div><div>&nbsp; &nbsp; &nbsp; "next": "1.1.0"</div><div>&nbsp; &nbsp; }</div><div>&nbsp; }</div><div>}</div><div><br></div></body></html>
